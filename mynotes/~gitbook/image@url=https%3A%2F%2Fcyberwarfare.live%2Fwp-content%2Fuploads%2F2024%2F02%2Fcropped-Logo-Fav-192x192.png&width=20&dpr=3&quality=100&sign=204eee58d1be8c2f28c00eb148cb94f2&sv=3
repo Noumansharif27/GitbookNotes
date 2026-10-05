@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+
+  <link rel="icon" type="image/png" href="https://cyberwarfare.live/assets/CWL.png" />
+  <link rel="apple-touch-icon" href="https://cyberwarfare.live/assets/cwl_logo.png" />
+  <link rel="manifest" href="https://cyberwarfare.live/manifest.json" />
+
+  <meta name="theme-color" content="#000000" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="3PGtmHMNtK4k6vnU9Mv1kaOqcuLtODXBc4oTiS1x1yg" />
+
+  <meta name="description" content="Explore cybersecurity certifications with hands-on labs and practical training in ethical hacking, red team, blue team, cloud security, AI security and more." />
+  <meta name="keywords" content="best cybersecurity certifications" />
+  <title>Cybersecurity Certifications & Hands-On Labs | CyberWarFare Labs</title>
+  <script type="module" crossorigin src="https://cyberwarfare.live/assets/index-quiqqxP3.js"></script>
+  <link rel="stylesheet" crossorigin href="https://cyberwarfare.live/assets/index-vJL8p8EC.css">
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <!-- Zoho SalesIQ -->
+  <script>
+    window.$zoho = window.$zoho || {};
+    $zoho.salesiq = $zoho.salesiq || {
+      ready: function () { }
+    };
+  </script>
+
+  <script id="zsiqscript"
+    src="https://salesiq.zohopublic.in/widget?wc=siqb63d260657dec478a2173f6e4a76295f4763c47b902e0ccd5d766de5e2bd82f8"
+    defer>
+    </script>
+
+  <!-- React -->
+
+  <!-- Zoho SalesIQ -->
+  <script>
+    window.$zoho = window.$zoho || {};
+    $zoho.salesiq = $zoho.salesiq || {
+      widgetcode: "siqb63d260657dec478a2173f6e4a76295f4763c47b902e0ccd5d766de5e2bd82f8",
+      values: {},
+      ready: function () { }
+    };
+  </script>
+  <script id="zsiqscript"
+    src="https://salesiq.zohopublic.in/widget?wc=siqb63d260657dec478a2173f6e4a76295f4763c47b902e0ccd5d766de5e2bd82f8"
+    defer>
+    </script>
+
+</body>
+
+</html>

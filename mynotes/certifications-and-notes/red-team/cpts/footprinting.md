@@ -1,0 +1,25 @@
+> For the complete documentation index, see [llms.txt](https://savitar.gitbook.io/mynotes/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting.md).
+
+# Footprinting
+
+- [Infrastructure-based Enumeration](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/infrastructure-based-enumeration.md)
+- [FTP](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/ftp.md)
+- [SMB](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/smb.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/smb/question.md)
+- [NFS](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/nfs.md)
+- [DNS](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/dns.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/dns/question.md)
+- [SMTP](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/smtp.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/smtp/question.md)
+- [IMAP / POP3](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/imap-pop3.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/imap-pop3/question.md)
+- [SNMP](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/snmp.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/snmp/question.md)
+- [MySQL](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/mysql.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/mysql/question.md)
+- [MSSQL](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/mssql.md)
+- [Question](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/mssql/question.md)
+- [Oracle TNS - 1521](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/oracle-tns-1521.md)
+- [IPMI](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/ipmi.md)
+- [Linux Remote Management Protocols](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/linux-remote-management-protocols.md)
+- [Windows Remote Management Protocols](https://savitar.gitbook.io/mynotes/certifications-and-notes/red-team/cpts/footprinting/windows-remote-management-protocols.md)
